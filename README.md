@@ -1,4 +1,4 @@
-# BudgetAM 💰
+# BudgetAM 
 
 A modern budgeting system built around **daily allowance control** and a **weekly recovery (catch-up) model**, designed for real-life spending behavior.
 
@@ -14,7 +14,7 @@ It is built for young Nigerians, freelancers, and anyone who wants clarity witho
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 
 Traditional budgeting apps fail because:
 
@@ -24,7 +24,7 @@ Traditional budgeting apps fail because:
 - Users lose motivation and stop tracking
 - Insights come too late
 
-### 🚀 BudgetAm solves this by:
+### BudgetAm solves this by:
 
 - Breaking budgets into daily targets
 - Adding weekly recovery (catch-up mode)
@@ -33,43 +33,43 @@ Traditional budgeting apps fail because:
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 https://budgetam-naija-money.lovable.app
 
 ---
 
-## 🚀 Features
+## Features
 
-### 💰 Budgeting
+### Budgeting
 - Daily budgeting system
 - Weekly catch-up mode
 
-### 🧾 Expense Tracking
+### Expense Tracking
 - Smart auto-categorization
 - Manual override for categories
 
-### 🎨 Personalization
+### Personalization
 - Dark mode support
 - Alternative UI themes
 
-### 🔐 Authentication
+### Authentication
 - Secure email verification login
 
-### 🧭 Onboarding
+### Onboarding
 - Multi-step onboarding flow
 - Resume onboarding later anytime
 
-### 📊 Insights
+### Insights
 - Spending analytics and category breakdowns  
 - Goal-based savings tracking  
 
-### 📤 Reports
+### Reports
 - Export financial reports (PDF/CSV)
 
 ---
 
-## 🧩 Onboarding Flow
+## Onboarding Flow
 
 1. Welcome screen  
 2. Income type (weekly / monthly / irregular)  

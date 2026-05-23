@@ -55,9 +55,11 @@ Traditional budgeting apps fail because:
 - Resume onboarding later anytime
 
 ### 📊 Insights
-- Spending analytics
-- Category breakdowns
-- Trend tracking
+- Spending analytics and category breakdowns  
+- Goal-based savings tracking  
+
+### 📤 Reports
+- Export financial reports (PDF/CSV)
 
 ---
 
@@ -142,6 +144,19 @@ Modupe, Samiat, Bose
 
 ### Pitch Team
 Vivian, Bukola
+
+---
+
+## 🔮 Future Improvements
+
+BudgetAM will continue to evolve with more powerful financial tools to improve user experience and money management.
+
+Planned features include:
+
+- 🏦 Bank account integration for automatic transaction syncing  
+- 🌍 Multi-currency support for international users  
+- 👥 Shared budgets for couples, families, and group financial planning  
+- 🤖 AI-powered spending insights with personalized budgeting tips and recommendations
 
 ---
 

@@ -1,6 +1,37 @@
 # BudgetAM 💰
 
-BudgetAM is a budgeting and expense tracking application designed to help young Nigerians manage spending, prioritize essential expenses, and avoid running out of money before month-end.
+ **Smart money. Real results.**
+
+A modern budgeting system built around **daily allowance control** and a **weekly recovery (catch-up) model**, designed for real-life spending behavior.
+
+ ## ✨ Overview
+
+BudgetAm is a personal finance companion designed to make budgeting effortless.
+
+Instead of rigid monthly budgets, BudgetAm uses:
+- **Daily budgeting** for real-time control
+- **Weekly catch-up mode** to recover from overspending
+
+It is built for students, freelancers, and anyone who wants clarity without spreadsheets.
+
+---
+
+## 💡 Problem Statement
+
+Traditional budgeting apps fail because:
+
+- Monthly budgets are too rigid
+- One bad day ruins the entire month
+- Manual tracking is tedious
+- Users lose motivation and stop tracking
+- Insights come too late
+
+### 🚀 BudgetAm solves this by:
+
+- Breaking budgets into daily targets
+- Adding weekly recovery (catch-up mode)
+- Providing smart categorization
+- Giving real-time spending insights
 
 ---
 
@@ -10,21 +41,77 @@ https://budgetam-naija-money.lovable.app
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- User onboarding and authentication
-- Income setup
-- Expense tracking
-- Daily allowance calculation
-- Overspending alerts
-- Survival forecast
-- Priority-based budgeting
+### 💰 Budgeting
+- Daily budgeting system
+- Weekly catch-up mode
+
+### 🧾 Expense Tracking
+- Smart auto-categorization
+- Manual override for categories
+
+### 🎨 Personalization
+- Dark mode support
+- Alternative UI themes
+
+### 🔐 Authentication
+- Secure email verification login
+
+### 🧭 Onboarding
+- Multi-step onboarding flow
+- Resume onboarding later anytime
+
+### 📊 Insights
+- Spending analytics
+- Category breakdowns
+- Trend tracking
+
+---
+
+## 🧩 Onboarding Flow
+
+1. Welcome screen  
+2. Income type (weekly / monthly / irregular)  
+3. Monthly income input  
+4. Spending plan setup  
+5. Choose budgeting mode (Daily / Weekly)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Lovable
+BudgetAM is built with a modern frontend architecture and a model for speed and scalability.
+
+### Frontend
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+
+### State & Routing
+- TanStack Query
+- React Router
+
+### Backend & Auth
+- Supabase Authentication (Email verification)
+- Supabase PostgreSQL Database
+
+### Platform
+- Lovable (AI-assisted development platform) 
+
+---
+
+## 🚀 Getting Started
+
+To view or edit this project:
+
+1. Open the project in Lovable  
+2. Allow the project to load and initialize  
+3. Start the development preview inside Lovable  
+
+That’s it — everything (including setup and dependencies) is handled automatically by Lovable.
 
 ---
 

@@ -1,10 +1,8 @@
 # BudgetAM 💰
 
- **Smart money. Real results.**
-
 A modern budgeting system built around **daily allowance control** and a **weekly recovery (catch-up) model**, designed for real-life spending behavior.
 
- ## ✨ Overview
+ **Smart money. Real results.** 
 
 BudgetAm is a personal finance companion designed to make budgeting effortless.
 
@@ -12,7 +10,7 @@ Instead of rigid monthly budgets, BudgetAm uses:
 - **Daily budgeting** for real-time control
 - **Weekly catch-up mode** to recover from overspending
 
-It is built for students, freelancers, and anyone who wants clarity without spreadsheets.
+It is built for young Nigerians, freelancers, and anyone who wants clarity without spreadsheets.
 
 ---
 
@@ -119,7 +117,7 @@ That’s it — everything (including setup and dependencies) is handled automat
 
 To use BudgetAM:
 
-1. Open the app  
+1. Open the live app: https://budgetam-naija-money.lovable.app  
 2. Create an account and verify your email  
 3. Complete onboarding setup  
 4. Start tracking your income and expenses immediately  

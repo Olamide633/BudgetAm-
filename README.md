@@ -33,6 +33,12 @@ Traditional budgeting apps fail because:
 
 ---
 
+## 🌐 Live Demo
+
+https://budgetam-naija-money.lovable.app
+
+---
+
 ## 🚀 Features
 
 ### 💰 Budgeting
@@ -119,12 +125,6 @@ To use BudgetAM:
 4. Start tracking your income and expenses immediately  
 
 That’s it — BudgetAM is ready to use right after signup. 
-
----
-
-## 🌐 Live Demo
-
-https://budgetam-naija-money.lovable.app
 
 ---
 

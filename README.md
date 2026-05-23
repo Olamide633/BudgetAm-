@@ -1,4 +1,4 @@
-# BudgetAM 
+# BudgetAm 
 
 A modern budgeting system built around **daily allowance control** and a **weekly recovery (catch-up) model**, designed for real-life spending behavior.
 
@@ -79,7 +79,7 @@ https://budgetam-naija-money.lovable.app
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 BudgetAM is built with a modern frontend architecture and a model for speed and scalability.
 
@@ -103,7 +103,7 @@ BudgetAM is built with a modern frontend architecture and a model for speed and 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To view or edit this project:
 
@@ -115,7 +115,7 @@ That’s it — everything (including setup and dependencies) is handled automat
 
 ---
 
-## 📱 Usage
+## Usage
 
 To use BudgetAM:
 
@@ -128,7 +128,7 @@ That’s it — BudgetAM is ready to use right after signup.
 
 ---
 
-## 👥 Team Structure
+## Team Structure
 
 ### Product Team
 Tolulope, Favour, AJ, Tosin, Ugonna
@@ -147,7 +147,7 @@ Vivian, Bukola
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 BudgetAM will continue to evolve with more powerful financial tools to improve user experience and money management.
 
@@ -160,13 +160,13 @@ Planned features include:
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 Detailed product documentation, PRD, MVP scope, and research findings are available in the project documents.
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 - MVP Completed  
 - Working demo available  
